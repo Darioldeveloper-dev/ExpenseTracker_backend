@@ -39,4 +39,6 @@ build/
 .DS_Store
 
 .env
-*.env
+*.env.idea/encodings.xml
+.idea/misc.xml
+.idea/vcs.xml
